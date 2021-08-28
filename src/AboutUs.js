@@ -1,0 +1,16 @@
+import React from 'react';
+import './App.css';
+
+function AboutUs() {
+  return (
+    <div>
+     <h1 class="text-primary">About us</h1>
+     <p class="text-light bg-dark">
+       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque quasi adipisci suscipit magnam ducimus delectus facere doloremque consequatur itaque ea quo amet nostrum ratione veritatis unde pariatur earum non doloribus, ipsum sequi explicabo accusamus. Iste iusto cumque voluptatibus, tenetur neque temporibus ipsum perferendis libero, rerum voluptatem, reprehenderit pariatur ratione provident cum doloremque sint! Aspernatur veritatis atque impedit nobis! Hic quis eveniet unde illo voluptate incidunt voluptatem architecto quos harum. In iure quisquam iste et, sunt explicabo optio voluptatum quo numquam ullam necessitatibus asperiores at. Aliquid fugit ullam ipsa laboriosam ex magnam repellendus ducimus culpa dolorem ut assumenda neque rem asperiores quasi aliquam error quas hic, voluptatem odit laudantium aperiam soluta. Ducimus voluptatibus neque voluptates illum deleniti amet, doloribus porro quasi minus sed et. Consequuntur molestiae blanditiis corrupti aperiam illum error, aliquam asperiores magni odit sit dolorem eaque vitae earum quidem ab ipsa, iure ratione voluptates incidunt eius pariatur. Ipsam, ab deserunt eveniet voluptatibus, dicta asperiores officiis harum ad id aliquam quasi, pariatur excepturi modi facere quos deleniti sunt? Consectetur, animi. Odit modi rerum itaque accusamus illum assumenda natus magnam, totam minima adipisci nam harum ad voluptate. Velit amet voluptatum sunt deleniti cumque unde totam cum blanditiis consequatur a perferendis omnis earum inventore dolores maiores illo ducimus eveniet repellendus cupiditate alias, sint voluptate. Nam soluta fuga cumque corporis, laborum pariatur, quia inventore iusto voluptates illum voluptatem temporibus, iste vero? Doloribus ipsam iure illo! Dolore similique alias qui quidem, magnam ea, consequuntur, deserunt cum dolores amet quod fugit maiores enim animi quasi. Neque, officiis dolores velit cum assumenda ducimus quo. Vero eius nisi dolor laudantium aliquid! Rem accusamus voluptatum dolores voluptate, natus architecto rerum minus dolore, repellat voluptas tempora aperiam mollitia quidem quis neque est a quisquam ipsum placeat obcaecati sapiente doloribus! Omnis eaque sed deleniti vitae itaque! Nam non vel quisquam suscipit repudiandae quae quasi dignissimos voluptates illum animi, rem reprehenderit perferendis vitae fugiat fuga consectetur reiciendis veritatis harum praesentium maiores tenetur repellat ipsa nostrum! Ea architecto fuga laudantium similique, soluta nemo natus atque qui! Quis ut deserunt consequuntur nisi nobis officia? Voluptatibus, repellat perferendis, dolores ut, animi quam consequuntur labore ab vitae nam suscipit inventore accusamus minus reprehenderit iste veniam ex! Odio, quod libero natus eveniet corporis, ducimus accusantium rem suscipit aut dolorum maxime quidem delectus fugit doloremque fuga ea eaque. Delectus, possimus cupiditate mollitia soluta eveniet fuga repellendus similique molestias nesciunt velit animi magnam aperiam voluptas temporibus, dolorum laudantium!
+
+     </p>
+    </div>
+  );
+}
+
+export default AboutUs;
